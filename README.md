@@ -4,7 +4,6 @@ A full-stack **ChatGPT-like conversational AI application** built using **React,
 The app supports real-time chat, conversation history, and a clean modern UI similar to ChatGPT.
 
 ---
-
 ## 🚀 Features
 
 - 💬 ChatGPT-like chat interface
